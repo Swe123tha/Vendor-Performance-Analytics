@@ -44,80 +44,42 @@ The project uses Python, SQL, and Power BI to transform raw business data into m
 
 \- Git \& GitHub
 
-
-##  Project Structure
+## Project Structure
 
 ```text
-
 Vendor-Performance-Analytics/
-
 │
-
-├── data/
-
-│
-
 ├── python/
-
-│   ├── inspect\_data.py
-
-│   ├── ...
-
-│   └── hypothesis\_testing.py
-
-│
-
 ├── sql/
-
-│   └── 01\_vendor\_analysis.sql
-
-│
-
 ├── powerbi/
-
-│   └── Vendor\_Performance\_Analytics.pbix
-
-│
-
 ├── screenshots/
-
-│   ├── eda/
-
-│   └── statistics/
-
-│
-
 ├── reports/
-
-│
-
 ├── .gitignore
-
 └── README.md
 
 
+```markdown
 ## Power BI Dashboard
 
-The Power BI dashboard contains four pages:
+The Power BI dashboard contains four pages.
 
 ### Dashboard Preview
 
 #### 1. Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/01_executive_overview.png)
-
+![Executive Overview](screenshots/dashboard/01_executive_overview.png)
 
 #### 2. Vendor Performance
 
-![Vendor Performance](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/02_vendor_performance.png)
+![Vendor Performance](screenshots/dashboard/02_vendor_performance.png)
 
 #### 3. Brand Performance
 
-![Brand Performance](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/03_brand_performance.png)
+![Brand Performance](screenshots/dashboard/03_brand_performance.png)
 
 #### 4. Inventory Analysis
 
-![Inventory Analysis](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/04_inventory_analysis.png)
+![Inventory Analysis](screenshots/dashboard/04_inventory_analysis.png)
 
 The Power BI dashboard contains four pages:
 
