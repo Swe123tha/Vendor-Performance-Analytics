@@ -191,4 +191,3 @@ The analysis can be used to identify:
 * Inventory demand forecasting
 * Machine learning-based vendor risk scoring
 * Automated business recommendations
-
