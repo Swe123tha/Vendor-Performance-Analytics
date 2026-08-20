@@ -57,8 +57,6 @@ Vendor-Performance-Analytics/
 ├── .gitignore
 └── README.md
 
-
-```markdown
 ## Power BI Dashboard
 
 The Power BI dashboard contains four pages.
