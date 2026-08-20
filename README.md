@@ -104,19 +104,20 @@ The Power BI dashboard contains four pages:
 
 #### 1. Executive Overview
 
-![Executive Overview](screenshots/dashboard/01_executive_overview.png)
+![Executive Overview](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/01_executive_overview.png)
+
 
 #### 2. Vendor Performance
 
-![Vendor Performance](screenshots/dashboard/02_vendor_performance.png)
+![Vendor Performance](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/02_vendor_performance.png)
 
 #### 3. Brand Performance
 
-![Brand Performance](screenshots/dashboard/03_brand_performance.png)
+![Brand Performance](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/03_brand_performance.png)
 
 #### 4. Inventory Analysis
 
-![Inventory Analysis](screenshots/dashboard/04_inventory_analysis.png)
+![Inventory Analysis](https://raw.githubusercontent.com/Swe123tha/Vendor-Performance-Analytics/main/screenshots/dashboard/04_inventory_analysis.png)
 
 The Power BI dashboard contains four pages:
 
