@@ -1,22 +1,11 @@
-\# Vendor Performance Analytics
+# Vendor Performance Analytics
 
-
-
-\##  Project Overview
-
-
-
+##  Project Overview
 Vendor Performance Analytics is an end-to-end data analytics project designed to evaluate vendor performance, sales, purchasing activity, profitability, and inventory efficiency.
-
-
 
 The project uses Python, SQL, and Power BI to transform raw business data into meaningful analytics and interactive dashboards.
 
-
-
-\## Objectives
-
-
+## Objectives
 
 \- Analyze vendor sales and purchasing performance
 
@@ -35,10 +24,7 @@ The project uses Python, SQL, and Power BI to transform raw business data into m
 \- Generate actionable business insights
 
 
-
-\## Technologies Used
-
-
+## Technologies Used
 
 \- Python
 
@@ -59,10 +45,7 @@ The project uses Python, SQL, and Power BI to transform raw business data into m
 \- Git \& GitHub
 
 
-
-\##  Project Structure
-
-
+##  Project Structure
 
 ```text
 
@@ -113,16 +96,31 @@ Vendor-Performance-Analytics/
 └── README.md
 
 
-
-Power BI Dashboard
-
-
+## Power BI Dashboard
 
 The Power BI dashboard contains four pages:
 
+### Dashboard Preview
 
+#### 1. Executive Overview
 
-1\. Executive Overview 
+![Executive Overview](screenshots/dashboard/01_executive_overview.png)
+
+#### 2. Vendor Performance
+
+![Vendor Performance](screenshots/dashboard/02_vendor_performance.png)
+
+#### 3. Brand Performance
+
+![Brand Performance](screenshots/dashboard/03_brand_performance.png)
+
+#### 4. Inventory Analysis
+
+![Inventory Analysis](screenshots/dashboard/04_inventory_analysis.png)
+
+The Power BI dashboard contains four pages:
+
+### 1. Executive Overview 
 
 * Total Sales
 * Total Purchases
@@ -132,9 +130,7 @@ The Power BI dashboard contains four pages:
 * Top Vendors
 * Sales vs Purchases
 
-
-
-2\. Vendor Performance
+### 2. Vendor Performance
 
 * Vendor filtering
 * Vendor sales
@@ -144,9 +140,7 @@ The Power BI dashboard contains four pages:
 * Stock turnover
 * Sales-to-purchase ratio
 
-
-
-3\. Brand Performance
+### 3. Brand Performance
 
 * Brand filtering
 * Top brands by sales
@@ -154,9 +148,7 @@ The Power BI dashboard contains four pages:
 * Brand sales vs gross profit
 * Brand profit margin
 
-
-
-4\. Inventory Analysis
+### 4. Inventory Analysis
 
 * Beginning inventory
 * Ending inventory
@@ -164,36 +156,16 @@ The Power BI dashboard contains four pages:
 * Inventory by store
 * Beginning vs ending inventory
 
-
-
-Statistical Analysis
-
-
-
+## Statistical Analysis
 The project includes:
+* Descriptive statistics
+* 25th and 75th percentile analysis
+* Independent two-sample Welch's t-test
+* Hypothesis testing
+* 95% confidence intervals
 
-
-
-Descriptive statistics
-
-25th and 75th percentile analysis
-
-Independent two-sample Welch's t-test
-
-Hypothesis testing
-
-95% confidence intervals
-
-
-
-Key Business Metrics
-
-
-
+## Key Business Metrics
 The project calculates:
-
-
-
 * Total Sales
 * Total Purchases
 * Gross Profit
@@ -203,16 +175,8 @@ The project calculates:
 * Inventory Change
 * Vendor Performance
 
-
-
-&#x20;Business Insights
-
-
-
+## Business Insights
 The analysis can be used to identify:
-
-
-
 * High-performing vendors
 * Low-performing vendors
 * Profitable brands
@@ -220,14 +184,7 @@ The analysis can be used to identify:
 * Potential inventory issues
 * Differences between purchasing and sales performance
 
-
-
-&#x20;
-
-Future Improvements
-
-
-
+## Future Improvements
 * Automated dashboard refresh
 * Vendor performance prediction
 * Sales forecasting
